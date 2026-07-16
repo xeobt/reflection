@@ -37,6 +37,27 @@ function App() {
       available: true,
       image: "https://m.media-amazon.com/images/I/91ebghaV-eL._SY466_.jpg",
     },
+    {
+      title: "example",
+      author: "Jgfgfgfr",
+      categories: ["Non-Fiction", "Bestseller"],
+      available: true,
+      image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg",
+    },
+    {
+      title: "example",
+      author: "Jfgfgfg",
+      categories: ["Non-Fiction", "Bestseller"],
+      available: true,
+      image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg",
+    },
+    {
+      title: "example",
+      author: "fgffgfg",
+      categories: ["Non-Fiction", "Bestseller"],
+      available: true,
+      image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg",
+    },
   ]);
 
   const [selectedCategory, setSelectedCategory] = useState("All");

@@ -147,7 +147,7 @@ a{
 #DivContainer{
   background-color:#1f2028;
   border-radius: 100px 100px 100px 100px;
-  height: 120vh;
+  height: fit-content;
   padding: 20vh;
   box-shadow: 0 0 75px rgb(226, 251, 255);
 }
